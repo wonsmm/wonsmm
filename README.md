@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wonsmm.
-- 👀 I’m interested in PHP web develope and SOAR Python script.
+- 👀 I’m interested in web develope for PHP and SOAR Python script.
 - 🌱 I’m currently learning Python.
 - 📫 Please contact me on Instagram @wonsmm.
 
